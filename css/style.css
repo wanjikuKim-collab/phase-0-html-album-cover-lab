@@ -33,7 +33,7 @@ h1 {
 }
 
 h2 {
-  font-size: 5.1em;
+  font-size: 4.2em;
   line-height: 1em;
   letter-spacing: .03em;
   margin-bottom: 2px;
@@ -65,7 +65,7 @@ span {
   display: inline-block;
   font-size: 1em;
   line-height: 1em;
-  letter-spacing: .35em;
+  letter-spacing: .20em;
   vertical-align: top;
   padding-top: 10px;
 }
